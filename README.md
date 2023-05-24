@@ -28,8 +28,8 @@ To obtain permission or for any inquiries, please contact me at mutaqin.aryawjya
 
 ## Wiring Scheme
 
-Please refer to the [Wiring Guide](https://bit.ly/WiringPDMPAD) for detailed instructions on how to wire the UAV Payload Dropping Mechanism (PDM) in PAD mode.
-Please refer to the [Wiring Guide](https://bit.ly/WiringPDM) for detailed instructions on how to wire the UAV Payload Dropping Mechanism (PDM) in WHS mode.
+Please refer to the [PAD Wiring Guide](https://bit.ly/WiringPDMPAD) for detailed instructions on how to wire the UAV Payload Dropping Mechanism (PDM) in PAD mode.
+Please refer to the [WHS Wiring Guide](https://bit.ly/WiringPDM) for detailed instructions on how to wire the UAV Payload Dropping Mechanism (PDM) in WHS mode.
 
 ## License
 
