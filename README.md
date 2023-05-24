@@ -20,16 +20,16 @@ This repository contains the Arduino programs for a UAV Payload Dropping Mechani
 
 7. Upload the compiled code to your Arduino board. It is reccomended to verify the pin used in the code must be the same as used in the board.
 
+## Wiring Scheme
+
+1. Please refer to the [PAD Wiring Guide](https://bit.ly/WiringPDMPAD) for detailed instructions on how to wire the UAV Payload Dropping Mechanism (PDM) in PAD mode.
+2. Please refer to the [WHS Wiring Guide](https://bit.ly/WiringPDM) for detailed instructions on how to wire the UAV Payload Dropping Mechanism (PDM) in WHS mode.
+
 ## Usage Guidelines
 
 Please note that these programs are provided for personal use only and are not intended for commercial purposes. If you wish to use them in a commercial setting, kindly reach out to me for permission.
 
 To obtain permission or for any inquiries, please contact me at mutaqin.aryawjya@gmail.com
-
-## Wiring Scheme
-
-Please refer to the [PAD Wiring Guide](https://bit.ly/WiringPDMPAD) for detailed instructions on how to wire the UAV Payload Dropping Mechanism (PDM) in PAD mode.
-Please refer to the [WHS Wiring Guide](https://bit.ly/WiringPDM) for detailed instructions on how to wire the UAV Payload Dropping Mechanism (PDM) in WHS mode.
 
 ## License
 
