@@ -15,7 +15,6 @@ int Reed = 7;
 int trigger = 8;
 int pos = 0;
 const int ENA = 6;
-//int comingByte = 0;
 
 void setup() {
   scale.begin(DOUT, CLK);
