@@ -26,6 +26,11 @@ Please note that these programs are provided for personal use only and are not i
 
 To obtain permission or for any inquiries, please contact me at mutaqin.aryawjya@gmail.com
 
+## Wiring Scheme
+
+Please refer to the [Wiring Guide](https://bit.ly/WiringPDMPAD) for detailed instructions on how to wire the UAV Payload Dropping Mechanism (PDM) in PAD mode.
+Please refer to the [Wiring Guide](https://bit.ly/WiringPDM) for detailed instructions on how to wire the UAV Payload Dropping Mechanism (PDM) in WHS mode.
+
 ## License
 
 This code is released under the GNU GENERAL PUBLIC LICENSE code. The license applies to the codebase and users must comply with the license terms. Refer to the LICENSE file for more information.
