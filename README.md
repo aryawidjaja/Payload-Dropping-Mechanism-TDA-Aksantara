@@ -28,7 +28,7 @@ To obtain permission or for any inquiries, please contact me at mutaqin.aryawjya
 
 ## License
 
-This code is released under the MIT License code. The license applies to the codebase and users must comply with the license terms. Refer to the LICENSE file for more information.
+This code is released under the GNU GENERAL PUBLIC LICENSE code. The license applies to the codebase and users must comply with the license terms. Refer to the LICENSE file for more information.
 
 ## Contributing
 
